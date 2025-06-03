@@ -8,11 +8,7 @@ This tool can process multiple FASTA files containing DNA sequences for barcode 
 - **Quality assessment**: Evaluate sequences based on gaps, ambiguous bases, and continuous stretches (without gaps or ambiguous bases).
 - **Flexible ranking systems**: 'Standard' and 'relaxed' barcode quality criteria.
 - **Target-specific processing**: Handles and extracts different barcode sequences using known barcoding regions.
-- **Comprehensive reporting**: Produces detailed CSV output with the following metrics:
-  - file (path to fasta file)
-  - process_id 
-  - parameters 
-  - seq_id ()
+- **Comprehensive output and reporting**: Produces detailed CSV output with the following metrics:
 
 | Column | Description |
 |--------|-------------|
