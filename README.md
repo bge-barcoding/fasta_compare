@@ -13,6 +13,7 @@ This tool can process multiple FASTA files containing DNA sequences for barcode 
   - process_id 
   - parameters 
   - seq_id ()
+
 | Column | Description |
 |--------|-------------|
 | file | Source FASTA file path |
